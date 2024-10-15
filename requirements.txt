@@ -1,10 +1,5 @@
-#requirements.txt
-snowflake_snowpark_python
-streamlit
-requests
-
-
-name: app_environmentchannels:
+name: app_environment
+channels:
   - snowflake
 dependencies:
   - python=3.8.*
